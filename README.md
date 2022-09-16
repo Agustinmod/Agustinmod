@@ -5,6 +5,5 @@
 - 📫 How to reach me ...
 
 <!---
-Agustinmod/Agustinmod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+hola soy agustin un estuidante de Licenatura en sistemas de argeinta corrientes  actualemnte estoy aprendiendo a programa en c++dev y python me gusta leer articulos o programas que la gente hacer para tratar de entenderlos y aprender mas de la programacion tambien quiero aprender a hacer base de datos y muchas cosas mas. 
+-->
